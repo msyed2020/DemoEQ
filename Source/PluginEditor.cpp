@@ -14,6 +14,8 @@
 
 // bro screw suggestions
 
+// i aint traumatized i stg
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
