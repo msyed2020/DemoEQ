@@ -12,6 +12,8 @@
 
 // the mouse is lowk smooth on this
 
+// bro screw suggestions
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
