@@ -10,6 +10,8 @@
 
 // remember to actually save the file here princess
 
+// the mouse is lowk smooth on this
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
