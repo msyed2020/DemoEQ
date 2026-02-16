@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// actually needed that time off
-
-// crazy angry woman
-
-// they made me wild
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
