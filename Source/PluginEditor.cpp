@@ -14,6 +14,8 @@
 
 // who here
 
+// i will work on this i promise 
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
