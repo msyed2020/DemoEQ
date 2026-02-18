@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// back on the music grind
-
-// root of all evil
-
-// oh boy
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
