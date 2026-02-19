@@ -10,6 +10,8 @@
 
 // remember to actually save the file here princess
 
+// i looooooooooooooooooooooooooooooooooooooooove his voice -- zain aamer
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
