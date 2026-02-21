@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// there was a creep lmao
-
-// oh wow
-
-// yall live in a sim i guess
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
