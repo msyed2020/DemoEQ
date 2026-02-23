@@ -14,6 +14,8 @@
 
 // gonna go eat some food and then maybe do some work on the plugin
 
+// ai u dumb ass
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
