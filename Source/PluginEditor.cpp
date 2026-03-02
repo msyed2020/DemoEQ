@@ -10,6 +10,8 @@
 
 // remember to actually save the file here princess
 
+// odetari type
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
