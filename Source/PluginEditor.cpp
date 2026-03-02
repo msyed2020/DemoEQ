@@ -12,6 +12,8 @@
 
 // odetari type
 
+// magic spells
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
