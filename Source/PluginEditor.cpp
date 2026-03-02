@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// odetari type
-
-// magic spells
-
-// oh lord
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
