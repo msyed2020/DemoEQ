@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// in my head
-
-// usher still sings ab clubs
-
-// br grow up
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
