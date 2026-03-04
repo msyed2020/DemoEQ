@@ -14,6 +14,8 @@
 
 // thru me
 
+// hate corp
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
