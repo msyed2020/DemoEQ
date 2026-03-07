@@ -12,6 +12,8 @@
 
 // o ye
 
+// need to block out tha negativity
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
