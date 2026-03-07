@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// o ye
-
-// need to block out tha negativity
-
-// sleeping
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
