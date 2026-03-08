@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// his brain be workin
-
-// osamason
-
-// im a brown rokkstar
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
