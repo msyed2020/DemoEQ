@@ -12,6 +12,8 @@
 
 // man i gotta work on my music shi haha
 
+// ok cool
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
