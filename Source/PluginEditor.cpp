@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// comin out the hood again
-
-// bro i just got the flow fytb
-
-// makin real stuff
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
