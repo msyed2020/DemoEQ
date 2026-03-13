@@ -10,6 +10,8 @@
 
 // remember to actually save the file here princess
 
+// yall live ur life in a sim
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
