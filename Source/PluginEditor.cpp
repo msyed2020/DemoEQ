@@ -12,6 +12,8 @@
 
 // yall live ur life in a sim
 
+// too tired
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
