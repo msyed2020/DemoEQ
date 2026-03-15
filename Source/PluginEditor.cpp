@@ -12,6 +12,8 @@
 
 // emotionally helpless
 
+// ik itll get better
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
