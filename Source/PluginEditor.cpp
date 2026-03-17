@@ -12,6 +12,8 @@
 
 // oh nah
 
+// facing grief when making music
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
