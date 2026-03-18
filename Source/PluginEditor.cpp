@@ -10,6 +10,8 @@
 
 // remember to actually save the file here princess
 
+// if i got a story to tell i be tellin it
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
