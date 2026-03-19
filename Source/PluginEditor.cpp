@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// oh yeah
-
-// i am vector
-
-// i got direction and magnitude
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
