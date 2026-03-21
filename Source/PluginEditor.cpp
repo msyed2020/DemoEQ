@@ -14,6 +14,8 @@
 
 // bro
 
+// got energy
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
