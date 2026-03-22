@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// oh boy
-
-// joker
-
-// lol
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
