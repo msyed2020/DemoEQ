@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// ohhh my gaaa
-
-// lena in the shower
-
-// im a brown rokkstar
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
