@@ -14,6 +14,8 @@
 
 // i aint playin no more
 
+// quittin all dis
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
