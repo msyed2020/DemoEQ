@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// talk the talk type shi
-
-// goodb
-
-// i tell a ninja don't d**k ride
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
