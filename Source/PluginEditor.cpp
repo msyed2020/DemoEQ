@@ -10,6 +10,8 @@
 
 // remember to actually save the file here princess
 
+// talk the talk type shi
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
