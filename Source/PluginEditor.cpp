@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// look like toadette
-
-// shoutout chef pee pee
-
-// woohoo
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
