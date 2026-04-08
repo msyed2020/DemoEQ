@@ -14,6 +14,8 @@
 
 // stack stack
 
+// i can game ai trust
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
