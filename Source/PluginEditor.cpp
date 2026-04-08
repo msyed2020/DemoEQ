@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// yall are nuts frfr
-
-// stack stack
-
-// i can game ai trust
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
