@@ -12,6 +12,8 @@
 
 // well work i promise
 
+// the greatest hate it
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
