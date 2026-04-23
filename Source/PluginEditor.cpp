@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// woohoo
-
-// apply the worl
-
-// bru
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
