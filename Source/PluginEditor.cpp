@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// oof
-
-// but it gets addictive
-
-// ok
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
