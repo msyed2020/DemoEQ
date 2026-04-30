@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// ye this rap stuff hardwired into me
-
-// dun dun
-
-// coo coo
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
