@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// peeps analyzin kids movies
-
-// less go
-
-// im brown
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
