@@ -12,6 +12,8 @@
 
 // lemme be the one to make u smile again
 
+// nice
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
