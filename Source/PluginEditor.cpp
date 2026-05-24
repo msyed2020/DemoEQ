@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// imperious still gr8
-
-// woohoo
-
-// famous ain't it
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
