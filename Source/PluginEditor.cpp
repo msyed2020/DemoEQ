@@ -12,6 +12,8 @@
 
 // we'll actually get to this soon ngl
 
+// cuz this music shi be hittin
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
