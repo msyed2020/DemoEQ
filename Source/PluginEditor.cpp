@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// oo
-
-// nice nice
-
-// brown rokkstar
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
