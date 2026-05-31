@@ -10,6 +10,8 @@
 
 // remember to actually save the file here princess
 
+// my setup aint glorious
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
