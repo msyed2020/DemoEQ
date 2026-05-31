@@ -12,6 +12,8 @@
 
 // my setup aint glorious
 
+// nice
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
