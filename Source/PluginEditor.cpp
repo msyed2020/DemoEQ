@@ -12,6 +12,8 @@
 
 // i think ai fixed this
 
+// nice nice
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
