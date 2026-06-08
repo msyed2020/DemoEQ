@@ -12,6 +12,8 @@
 
 // ai thing got it ngl
 
+// cool
+
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
