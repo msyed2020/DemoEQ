@@ -10,12 +10,6 @@
 
 // remember to actually save the file here princess
 
-// world peace gotta be made
-
-// nice
-
-// whatevs
-
 #include "PluginProcessor.h"
 #include "PluginEditor.h"
 
